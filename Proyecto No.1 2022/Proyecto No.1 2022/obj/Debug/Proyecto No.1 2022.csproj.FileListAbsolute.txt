@@ -1,0 +1,10 @@
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\bin\Debug\Proyecto No.1 2022.exe.config
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\bin\Debug\Proyecto No.1 2022.exe
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\bin\Debug\Proyecto No.1 2022.pdb
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto No.1 2022.csproj.AssemblyReference.cache
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto_No._1_2022.Form1.resources
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto_No._1_2022.Properties.Resources.resources
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto No.1 2022.csproj.GenerateResource.cache
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto No.1 2022.csproj.CoreCompileInputs.cache
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto No.1 2022.exe
+C:\Users\Contabilidad Finanza\source\repos\Proyecto No.1 2022\Proyecto No.1 2022\obj\Debug\Proyecto No.1 2022.pdb
